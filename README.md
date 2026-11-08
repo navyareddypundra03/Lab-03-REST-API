@@ -28,8 +28,9 @@ This project demonstrates the development of a REST API using Node.js, Express.j
 The REST API can be deployed on a cloud hosting platform such as Render.
 
 - **Deployment Platform:** Render
-
-- **Books Endpoint:** [Add your deployed URL]/books
+-  **Deployment link:** https://lab-03-rest-api-bs1g.onrender.com
+- **Books Endpoint:** https://lab-03-rest-api-bs1g.onrender.com/books
+  
 
 The deployed API allows users to access the book management endpoints through HTTP requests.
 
